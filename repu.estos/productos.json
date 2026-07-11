@@ -4,6 +4,8 @@
     "titulo": "TEMPLADOR DE CORREA",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "APV1116",
     "imagen": "1.jpg"
   },
@@ -12,6 +14,8 @@
     "titulo": "POLEA RANURADA",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "APV2401",
     "imagen": "2.jpg"
   },
@@ -20,6 +24,8 @@
     "titulo": "PISTÓN CON ANILLO DE COMPRESORA DE AIRE",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "9115016252",
     "imagen": "3.jpg"
   },
@@ -28,6 +34,8 @@
     "titulo": "REPARO DE COMPRESORA LÁMINA RECTA",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "9125129362",
     "imagen": "4.jpg"
   },
@@ -36,6 +44,8 @@
     "titulo": "SOLENOIDE DE SECADOR DE AIRE",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "4324259202",
     "imagen": "5.jpg"
   },
@@ -44,6 +54,8 @@
     "titulo": "JUEGO DE REPARO DE SECADOR DE AIRE",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "9325109642",
     "imagen": "6.jpg"
   },
@@ -52,6 +64,8 @@
     "titulo": "REPARO DE COMPRESORA LÁMINA RECTA",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "9125129282",
     "imagen": "7.jpg"
   },
@@ -60,6 +74,8 @@
     "titulo": "SENSOR DE PRESIÓN DE AIRE DE CAJA I-SHIFT",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "4213659472",
     "imagen": "8.jpg"
   },
@@ -68,6 +84,8 @@
     "titulo": "BOLSA DE SUSPENSIÓN",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "1R5P370275",
     "imagen": "9.jpg"
   },
@@ -76,6 +94,8 @@
     "titulo": "CORREA MICRO V BOMBA DE AGUA",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "10PK1420",
     "imagen": "10.jpg"
   },
@@ -84,6 +104,8 @@
     "titulo": "CORREA MICRO V DE ALTERNADOR",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "8PK1485",
     "imagen": "11.jpg"
   },
@@ -92,6 +114,8 @@
     "titulo": "FILTRO SECADOR DE AIRE",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "4329012231",
     "imagen": "12.jpg"
   },
@@ -100,6 +124,8 @@
     "titulo": "VÁLVULA DE 4 VÍAS",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "1136012000",
     "imagen": "13.jpg"
   },
@@ -108,6 +134,8 @@
     "titulo": "VÁLVULA CONTROL DE NIVEL DE AIRE POSTERIOR",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "K019821N00",
     "imagen": "14.jpg"
   },
@@ -116,6 +144,8 @@
     "titulo": "VÁLVULA CONTROL DE NIVEL DE AIRE DELANTERA",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "0501100041100",
     "imagen": "15.jpg"
   },
@@ -124,6 +154,8 @@
     "titulo": "SENSOR NIVEL DE SUSPENSIÓN",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "20583428",
     "imagen": "16.jpg"
   },
@@ -132,6 +164,8 @@
     "titulo": "TIRANTES DE BARRA ESTABILIZADORA",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "21952221",
     "imagen": "17.jpg"
   },
@@ -140,6 +174,8 @@
     "titulo": "DISCO DE FRENO",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "20515097",
     "imagen": "18.jpg"
   },
@@ -148,6 +184,8 @@
     "titulo": "PASTILLAS DE FRENO",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "21496550",
     "imagen": "19.jpg"
   },
@@ -156,6 +194,8 @@
     "titulo": "KIT REPARACIÓN DE CÁLIPER",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "85109890",
     "imagen": "20.jpg"
   },
@@ -164,6 +204,8 @@
     "titulo": "BUJE DE BARRA DE TORSIÓN",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "21445959",
     "imagen": "21.jpg"
   },
@@ -172,6 +214,8 @@
     "titulo": "TERMINALES DE BARRA",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "3092472",
     "imagen": "22.jpg"
   },
@@ -180,6 +224,8 @@
     "titulo": "CRUCETA DE CAÑA DE DIRECCIÓN",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "20582360",
     "imagen": "23.jpg"
   },
@@ -188,6 +234,8 @@
     "titulo": "KIT DE PINES DE DIRECCIÓN",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "20751021",
     "imagen": "24.jpg"
   },
@@ -196,6 +244,8 @@
     "titulo": "VÁLVULA EBS DELANTERA / 3ER EJE",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "K021203N50",
     "imagen": "25.jpg"
   },
@@ -204,6 +254,8 @@
     "titulo": "JUEGO DE REPARO VÁLVULA EBS DELANTERA / 3ER EJE",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "QA-2070",
     "imagen": "26.jpg"
   },
@@ -212,6 +264,8 @@
     "titulo": "VÁLVULA EBS POSTERIOR",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "K020023N50",
     "imagen": "27.jpg"
   },
@@ -220,6 +274,8 @@
     "titulo": "JUEGO DE REPARO VÁLVULA EBS POSTERIOR",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "QA-2071",
     "imagen": "28.jpg"
   },
@@ -228,6 +284,8 @@
     "titulo": "VÁLVULA LIMITADORA DE PRESIÓN",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "4750150630",
     "imagen": "29.jpg"
   },
@@ -236,6 +294,8 @@
     "titulo": "VÁLVULA PEDAL DE FRENO",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "K024928N50",
     "imagen": "30.jpg"
   },
@@ -244,6 +304,8 @@
     "titulo": "VÁLVULA RELÉ",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "9730110110",
     "imagen": "31.jpg"
   },
@@ -252,6 +314,8 @@
     "titulo": "SECADOR DE AIRE",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "4324251050",
     "imagen": "32.jpg"
   },
@@ -260,6 +324,8 @@
     "titulo": "TANQUE DE AGUA",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "000967",
     "imagen": "33.jpg"
   },
@@ -268,6 +334,8 @@
     "titulo": "JUEGO DE EMPAQUES DE CAJA I-SHIFT",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "4213659202",
     "imagen": "34.jpg"
   },
@@ -276,6 +344,8 @@
     "titulo": "JUEGO DE RETENES DE CAJA I-SHIFT",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "4213659232",
     "imagen": "35.jpg"
   },
@@ -284,6 +354,8 @@
     "titulo": "SENSOR DE POSICIÓN DE CAJA I-SHIFT",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "4213659292",
     "imagen": "36.jpg"
   },
@@ -292,6 +364,8 @@
     "titulo": "RAMAL DE CONEXIÓN CAJA I-SHIFT",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "4213659462",
     "imagen": "37.jpg"
   },
@@ -300,6 +374,8 @@
     "titulo": "VÁLVULA SOLENOIDE DE CAJA I-SHIFT",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "2880246",
     "imagen": "38.jpg"
   },
@@ -308,6 +384,8 @@
     "titulo": "CAMISETA DE CILINDRO DE MOTOR",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "20820662",
     "imagen": "39.jpg"
   },
@@ -316,6 +394,8 @@
     "titulo": "ANILLOS DE PISTÓN DE MOTOR STD",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "790419-00-1",
     "imagen": "40.jpg"
   },
@@ -324,6 +404,8 @@
     "titulo": "METAL DE BIELA STD",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "77897600",
     "imagen": "41.jpg"
   },
@@ -332,6 +414,8 @@
     "titulo": "METAL DE BANCADA STD",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "77832600",
     "imagen": "42.jpg"
   },
@@ -340,6 +424,8 @@
     "titulo": "METAL DE EJE DE LEVAS STD",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "37151600",
     "imagen": "43.jpg"
   },
@@ -348,6 +434,8 @@
     "titulo": "JUEGO DE O-RINGS DE CAMISETA",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "477.610",
     "imagen": "44.jpg"
   },
@@ -356,6 +444,8 @@
     "titulo": "EMPAQUE DE CULATA DE MOTOR",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "225.100",
     "imagen": "45.jpg"
   },
@@ -364,6 +454,8 @@
     "titulo": "RETÉN DE CIGÜEÑAL POSTERIOR",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "22086413",
     "imagen": "46.jpg"
   },
@@ -372,6 +464,8 @@
     "titulo": "POTENCIÓMETRO",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "3092815",
     "imagen": "47.jpg"
   },
@@ -380,6 +474,8 @@
     "titulo": "FILTRO DE ACEITE BY PASS",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "WP11102/3",
     "imagen": "48.jpg"
   },
@@ -388,6 +484,8 @@
     "titulo": "FILTRO DE ACEITE LONG LIFE",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "WD1102/34",
     "imagen": "49.jpg"
   },
@@ -396,6 +494,8 @@
     "titulo": "FILTRO SECUNDARIO DE COMBUSTIBLE",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "WDK11001",
     "imagen": "50.jpg"
   },
@@ -404,6 +504,8 @@
     "titulo": "FILTRO PRIMARIO DE COMBUSTIBLE SEPARADOR DE AGUA",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "WK11001X",
     "imagen": "51.jpg"
   },
@@ -412,6 +514,8 @@
     "titulo": "FILTRO DE AIRE PRIMARIO",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "C311345/1",
     "imagen": "52.jpg"
   },
@@ -420,6 +524,8 @@
     "titulo": "FILTRO DE AIRE SECUNDARIO",
     "descripcion": "Descripción del repuesto.",
     "marca": "",
+    "precio": 0.00,
+    "stock": 0,
     "codigo": "CF1510/1",
     "imagen": "53.jpg"
   }
